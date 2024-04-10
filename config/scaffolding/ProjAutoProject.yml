@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ProjAutoProject
+  gitServerName: ICAccountTest0410
+  gitUrl: https://github.com/amlanbhowmick85/ProjAutoProject
+  gitUsername: amlanbhowmick85
+  gitBranch: main
